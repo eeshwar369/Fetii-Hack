@@ -9,7 +9,6 @@ Currently the following models are supported.
 
 Here are some screenshot.
 
-![Screenshot1](docs/images/screen1.png?raw=true)
 ![Screenshot2](docs/images/screen2.png?raw=true)
 ![Screenshot3](docs/images/screen3.png?raw=true)
 
