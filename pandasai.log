@@ -1,0 +1,6 @@
+2025-09-19 01:52:15 [WARNING] 
+Bad key font.sans-serif [SimHei] in file ./.matplotlib/.matplotlibrc, line 3 ('font.sans-serif [SimHei] : fonts/SimHei.ttf')
+You probably need to get an updated matplotlibrc file from
+https://github.com/matplotlib/matplotlib/blob/v3.8.0/lib/matplotlib/mpl-data/matplotlibrc
+or from the matplotlib source distribution
+2025-09-19 01:52:17 [INFO] st.session_state.llm_ready=False
